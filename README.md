@@ -1,8 +1,8 @@
-# 🔍 LLM-Based SEO Chunking Optimizer
+#  LLM-Based SEO Chunking Optimizer
 
 An intelligent system that automatically extracts webpage content, analyzes SEO issues, and restructures content using AI to improve search engine rankings.
 
-## 🌟 Features
+##  Features
 
 - **URL Input System**: Single or batch URL processing
 - **Web Scraping**: Extracts H1, H2, paragraphs, lists while removing ads and navigation
@@ -15,7 +15,7 @@ An intelligent system that automatically extracts webpage content, analyzes SEO 
 - **SEO Analysis Report**: Comprehensive scoring with actionable recommendations
 - **Bulk Processing**: Process 100-1000 URLs and export results
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ cd seo-url-optimizer
 pip install -r requirements.txt
 ```
 
-4. (Optional) Set up API keys for AI features:
+4.  Set up API keys for AI features(Optional):
 
 ```bash
 # For OpenAI
@@ -45,7 +45,7 @@ export GEMINI_API_KEY="your-key-here"
 
 > **Note**: The system works in **Demo Mode** without API keys, using built-in text optimization.
 
-## 💻 Usage
+##  Usage
 
 ### Command Line
 
@@ -70,7 +70,7 @@ streamlit run app.py
 
 Then open your browser at `http://localhost:8501`
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 seo-url-optimizer/
@@ -117,7 +117,7 @@ seo-url-optimizer/
 └── README.md
 ```
 
-## 📊 SEO Metrics
+##  SEO Metrics
 
 The system calculates:
 
@@ -130,7 +130,7 @@ The system calculates:
 | **Heading Structure** | Evaluation of H1/H2/H3 hierarchy |
 | **Overall SEO Score** | Composite score out of 100 |
 
-## 🧠 Example Transformation
+##  Example Transformation
 
 **Before:**
 ```
@@ -150,7 +150,7 @@ SEO (Search Engine Optimization) is the process of improving website visibility 
 - Higher conversion rates
 ```
 
-## ⚙️ Configuration
+##  Configuration
 
 Edit `configs/settings.json` to customize:
 
@@ -159,14 +159,14 @@ Edit `configs/settings.json` to customize:
 - `ai.default_model`: Preferred AI model
 - `output.export_formats`: Available export formats
 
-## 🔑 API Keys
+##  API Keys
 
 | Provider | Environment Variable | Model Name |
 |----------|---------------------|------------|
 | OpenAI | `OPENAI_API_KEY` | `gpt-4o` |
 | Google | `GEMINI_API_KEY` | `gemini-pro` |
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Python 3.8+**
 - **BeautifulSoup4** - HTML parsing
