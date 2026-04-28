@@ -19,6 +19,8 @@ An intelligent system that automatically extracts webpage content, analyzes SEO 
 - **SEO Analysis Report**: Comprehensive scoring with actionable recommendations
 - **Bulk Processing**: Process 100-1000 URLs and export results
 
+---
+
 ##  Quick Start
 
 ### Prerequisites
@@ -74,6 +76,8 @@ streamlit run app.py
 
 Then open your browser at `http://localhost:8501`
 
+---
+
 ##  Project Structure
 
 ```
@@ -121,6 +125,8 @@ seo-url-optimizer/
 └── README.md
 ```
 
+---
+
 ##  SEO Metrics
 
 The system calculates:
@@ -133,6 +139,8 @@ The system calculates:
 | **Snippet Readiness** | Score indicating featured snippet potential |
 | **Heading Structure** | Evaluation of H1/H2/H3 hierarchy |
 | **Overall SEO Score** | Composite score out of 100 |
+
+---
 
 ##  Example Transformation
 
