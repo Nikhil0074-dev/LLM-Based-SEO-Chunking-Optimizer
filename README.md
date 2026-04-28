@@ -2,6 +2,10 @@
 
 An intelligent system that automatically extracts webpage content, analyzes SEO issues, and restructures content using AI to improve search engine rankings.
 
+---
+![Screenshot](Screenshot.jpeg)
+---
+
 ##  Features
 
 - **URL Input System**: Single or batch URL processing
