@@ -1,0 +1,34 @@
+{
+  "app_name": "LLM-Based SEO Chunking Optimizer",
+  "version": "1.0.0",
+  "scraping": {
+    "timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "max_retries": 3,
+    "respect_robots_txt": true
+  },
+  "chunking": {
+    "max_paragraph_words": 60,
+    "max_snippet_words": 60,
+    "max_bullet_items": 7,
+    "topic_cluster_threshold": 0.3
+  },
+  "seo": {
+    "target_keyword_density": 1.5,
+    "max_keyword_density": 3.0,
+    "target_readability_score": 60,
+    "min_heading_structure_score": 80
+  },
+  "ai": {
+    "default_model": "gpt-4o",
+    "fallback_model": "gemini-pro",
+    "max_tokens": 2048,
+    "temperature": 0.3
+  },
+  "output": {
+    "export_formats": ["markdown", "html", "json", "csv"],
+    "report_dir": "output/reports",
+    "content_dir": "output/optimized_content"
+  }
+}
+
