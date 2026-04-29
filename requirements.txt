@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+lxml
+streamlit
+openai
+google-generativeai
+rake-nltk
+yake
+textstat
+scikit-learn
+nltk
+numpy
+pandas
+python-dotenv
+
