@@ -1,0 +1,343 @@
+{
+  "url": "https://www.w3schools.com/html/html_intro.asp",
+  "timestamp": "2026-04-28_23-09-35",
+  "overall_seo_score": 65,
+  "grade": "C",
+  "content_metrics": {
+    "original_word_count": 175,
+    "optimized_word_count": 175,
+    "heading_counts": {
+      "h1": 1,
+      "h2": 17,
+      "h3": 2
+    }
+  },
+  "readability": {
+    "flesch_reading_ease": 44.5,
+    "flesch_kincaid_grade": 14.38,
+    "avg_words_per_sentence": 29.5,
+    "avg_syllables_per_word": 1.56,
+    "difficulty": "Difficult",
+    "word_count": 354,
+    "sentence_count": 12
+  },
+  "keyword_analysis": {
+    "top_keywords": [
+      [
+        "html",
+        21
+      ],
+      [
+        "elements",
+        7
+      ],
+      [
+        "page",
+        6
+      ],
+      [
+        "content",
+        6
+      ],
+      [
+        "theelement",
+        6
+      ],
+      [
+        "element",
+        5
+      ],
+      [
+        "web",
+        5
+      ],
+      [
+        "tag",
+        5
+      ],
+      [
+        "document",
+        4
+      ],
+      [
+        "pages",
+        4
+      ],
+      [
+        "defines",
+        4
+      ],
+      [
+        "browsers",
+        3
+      ],
+      [
+        "structure",
+        3
+      ],
+      [
+        "standard",
+        3
+      ],
+      [
+        "markup",
+        3
+      ],
+      [
+        "language",
+        3
+      ],
+      [
+        "end",
+        3
+      ],
+      [
+        "browser",
+        3
+      ],
+      [
+        "display",
+        3
+      ],
+      [
+        "title",
+        3
+      ]
+    ],
+    "densities": {
+      "html": 5.92,
+      "elements": 1.97,
+      "page": 1.69,
+      "content": 1.69,
+      "theelement": 1.69,
+      "element": 1.41,
+      "web": 1.41,
+      "tag": 1.41,
+      "document": 1.13,
+      "pages": 1.13,
+      "defines": 1.13,
+      "browsers": 0.85,
+      "structure": 0.85,
+      "standard": 0.85,
+      "markup": 0.85,
+      "language": 0.85,
+      "end": 0.85,
+      "browser": 0.85,
+      "display": 0.85,
+      "title": 0.85
+    },
+    "placement": {
+      "in_first_paragraph": [
+        "html"
+      ],
+      "in_headings": [],
+      "in_body": [
+        "html",
+        "elements",
+        "page",
+        "content",
+        "theelement",
+        "element",
+        "web",
+        "tag",
+        "document",
+        "pages",
+        "defines",
+        "browsers",
+        "structure",
+        "standard",
+        "markup",
+        "language",
+        "end",
+        "browser",
+        "display",
+        "title"
+      ],
+      "missing": []
+    },
+    "title_optimized": true,
+    "title_keywords": [
+      "html"
+    ],
+    "suggested_keywords": [
+      "tutorial",
+      "step by step",
+      "review",
+      "advanced",
+      "features",
+      "complete",
+      "benefits",
+      "ultimate",
+      "what is",
+      "beginner"
+    ],
+    "keyword_count": 20
+  },
+  "heading_structure": {
+    "score": 100,
+    "issues": [],
+    "h1_count": 1,
+    "h2_count": 17,
+    "h3_count": 2
+  },
+  "snippet_readiness": {
+    "score": 25,
+    "factors": {
+      "word_count_ideal": false,
+      "sentence_count_ideal": false,
+      "starts_with_definition": true,
+      "has_list_format": false,
+      "has_question_format": false
+    },
+    "is_snippet_ready": false
+  },
+  "link_analysis": {
+    "total_links": 314,
+    "links_per_paragraph": 28.55,
+    "distribution": "Dense",
+    "recommendation": "Consider reducing link density"
+  },
+  "people_also_ask": [
+    {
+      "question": "What is HTMLTutorial?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLForms?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLGraphics?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLMedia?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLAPIs?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLCert?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLExamples?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLReferences?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is HTMLTutorial?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLForms?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLGraphics?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLMedia?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLAPIs?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLCert?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLExamples?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLReferences?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is What is HTML?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is A Simple HTML Document?",
+      "answer": "An HTML element is defined by a start tag, some content, and an end tag",
+      "type": "generated"
+    },
+    {
+      "question": "What is What is an HTML Element?",
+      "answer": "An HTML element is defined by a start tag, some content, and an end tag",
+      "type": "generated"
+    },
+    {
+      "question": "What is Web Browsers?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTML Page Structure?",
+      "answer": "Below is a visualization of an HTML page structure",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTML History?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Video HTML Introduction?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Contact Sales?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Report Error?",
+      "answer": "If you want to report an error, or if you want to make a suggestion, send us an e-mailhelpw3schools.com",
+      "type": "generated"
+    },
+    {
+      "question": "What is Example?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Example Explained?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    }
+  ],
+  "recommendations": [
+    "Content is too difficult to read. Simplify sentences and use shorter words.",
+    "Add a concise definition or step-by-step list to improve snippet readiness."
+  ]
+}

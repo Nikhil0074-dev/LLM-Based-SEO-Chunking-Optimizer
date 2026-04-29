@@ -1,0 +1,118 @@
+{
+  "url": "https://httpbin.org/html",
+  "timestamp": "2026-04-28_23-09-33",
+  "overall_seo_score": 36,
+  "grade": "F",
+  "content_metrics": {
+    "original_word_count": 0,
+    "optimized_word_count": 0,
+    "heading_counts": {
+      "h1": 1,
+      "h2": 0,
+      "h3": 0
+    }
+  },
+  "readability": {
+    "flesch_reading_ease": 54.73,
+    "flesch_kincaid_grade": 6.62,
+    "avg_words_per_sentence": 4.0,
+    "avg_syllables_per_word": 1.75,
+    "difficulty": "Fairly Difficult",
+    "word_count": 4,
+    "sentence_count": 1
+  },
+  "keyword_analysis": {
+    "top_keywords": [
+      [
+        "herman",
+        1
+      ],
+      [
+        "melville",
+        1
+      ],
+      [
+        "moby",
+        1
+      ],
+      [
+        "dick",
+        1
+      ]
+    ],
+    "densities": {
+      "herman": 25.0,
+      "melville": 25.0,
+      "moby": 25.0,
+      "dick": 25.0
+    },
+    "placement": {
+      "in_first_paragraph": [
+        "herman",
+        "melville",
+        "moby",
+        "dick"
+      ],
+      "in_headings": [],
+      "in_body": [],
+      "missing": [
+        "herman",
+        "melville",
+        "moby",
+        "dick"
+      ]
+    },
+    "title_optimized": false,
+    "title_keywords": [],
+    "suggested_keywords": [
+      "tutorial",
+      "step by step",
+      "review",
+      "advanced",
+      "features",
+      "complete",
+      "benefits",
+      "ultimate",
+      "what is",
+      "beginner"
+    ],
+    "keyword_count": 4
+  },
+  "heading_structure": {
+    "score": 30,
+    "issues": [
+      "Need at least 2 H2 tags",
+      "Missing H2 tags after H1"
+    ],
+    "h1_count": 1,
+    "h2_count": 0,
+    "h3_count": 0
+  },
+  "snippet_readiness": {
+    "score": 0,
+    "factors": {
+      "word_count_ideal": false,
+      "sentence_count_ideal": false,
+      "starts_with_definition": false,
+      "has_list_format": false,
+      "has_question_format": false
+    },
+    "is_snippet_ready": false
+  },
+  "link_analysis": {
+    "total_links": 0,
+    "links_per_paragraph": 0,
+    "distribution": "None",
+    "recommendation": "Add content first"
+  },
+  "people_also_ask": [],
+  "faq": [],
+  "recommendations": [
+    "Readability can be improved. Break down complex sentences.",
+    "Add primary keywords to the title tag.",
+    "Keywords missing from body text: herman, melville, moby",
+    "Heading issue: Need at least 2 H2 tags",
+    "Heading issue: Missing H2 tags after H1",
+    "Add a concise definition or step-by-step list to improve snippet readiness."
+  ]
+}

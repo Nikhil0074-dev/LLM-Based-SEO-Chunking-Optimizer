@@ -1,0 +1,153 @@
+{
+  "url": "https://example.com",
+  "timestamp": "2026-04-28_23-09-31",
+  "overall_seo_score": 51,
+  "grade": "D",
+  "content_metrics": {
+    "original_word_count": 15,
+    "optimized_word_count": 15,
+    "heading_counts": {
+      "h1": 1,
+      "h2": 0,
+      "h3": 0
+    }
+  },
+  "readability": {
+    "flesch_reading_ease": 29.01,
+    "flesch_kincaid_grade": 11.33,
+    "avg_words_per_sentence": 8.5,
+    "avg_syllables_per_word": 2.0,
+    "difficulty": "Very Difficult",
+    "word_count": 17,
+    "sentence_count": 2
+  },
+  "keyword_analysis": {
+    "top_keywords": [
+      [
+        "domain",
+        2
+      ],
+      [
+        "use",
+        2
+      ],
+      [
+        "example",
+        1
+      ],
+      [
+        "documentation",
+        1
+      ],
+      [
+        "examples",
+        1
+      ],
+      [
+        "without",
+        1
+      ],
+      [
+        "needing",
+        1
+      ],
+      [
+        "permission",
+        1
+      ],
+      [
+        "avoid",
+        1
+      ],
+      [
+        "operations",
+        1
+      ]
+    ],
+    "densities": {
+      "domain": 11.76,
+      "use": 11.76,
+      "example": 5.88,
+      "documentation": 5.88,
+      "examples": 5.88,
+      "without": 5.88,
+      "needing": 5.88,
+      "permission": 5.88,
+      "avoid": 5.88,
+      "operations": 5.88
+    },
+    "placement": {
+      "in_first_paragraph": [
+        "domain",
+        "example"
+      ],
+      "in_headings": [],
+      "in_body": [
+        "domain",
+        "use",
+        "example",
+        "documentation",
+        "examples",
+        "without",
+        "needing",
+        "permission",
+        "avoid",
+        "operations"
+      ],
+      "missing": []
+    },
+    "title_optimized": true,
+    "title_keywords": [
+      "domain",
+      "example"
+    ],
+    "suggested_keywords": [
+      "tutorial",
+      "step by step",
+      "review",
+      "advanced",
+      "features",
+      "complete",
+      "benefits",
+      "ultimate",
+      "what is",
+      "beginner"
+    ],
+    "keyword_count": 10
+  },
+  "heading_structure": {
+    "score": 30,
+    "issues": [
+      "Need at least 2 H2 tags",
+      "Missing H2 tags after H1"
+    ],
+    "h1_count": 1,
+    "h2_count": 0,
+    "h3_count": 0
+  },
+  "snippet_readiness": {
+    "score": 50,
+    "factors": {
+      "word_count_ideal": false,
+      "sentence_count_ideal": true,
+      "starts_with_definition": true,
+      "has_list_format": false,
+      "has_question_format": false
+    },
+    "is_snippet_ready": false
+  },
+  "link_analysis": {
+    "total_links": 1,
+    "links_per_paragraph": 1.0,
+    "distribution": "Dense",
+    "recommendation": "Consider reducing link density"
+  },
+  "people_also_ask": [],
+  "faq": [],
+  "recommendations": [
+    "Content is too difficult to read. Simplify sentences and use shorter words.",
+    "Heading issue: Need at least 2 H2 tags",
+    "Heading issue: Missing H2 tags after H1",
+    "Add a concise definition or step-by-step list to improve snippet readiness."
+  ]
+}

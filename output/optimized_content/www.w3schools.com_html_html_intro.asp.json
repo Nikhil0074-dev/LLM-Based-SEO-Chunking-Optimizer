@@ -1,0 +1,1512 @@
+{
+  "url": "https://www.w3schools.com/html/html_intro.asp",
+  "optimized_content": {
+    "title": "Introduction to HTML",
+    "meta_description": "W3Schools offers free online tutorials. References and exercises in all the major languages of the web.. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "paragraphs": [
+      "HTML is the standard markup language for creating Web pages.",
+      "An HTML element is defined by a start tag, some content, and an end tag",
+      "The HTMLelementis everything from the start tag to the end tag",
+      "NoteSome HTML elements have no content (like the element). These elements are called empty elements. Empty elements do not have an end tag!",
+      "A browser does not display the HTML tags, but uses them to determine how to display the document",
+      "Below is a visualization of an HTML page structure",
+      "NoteThe content inside the section will be displayed in a browser. The content inside the element will be shown in the browsers title bar or in the pages tab.",
+      "Since the early days of the World Wide Web, there have been many versions of HTML",
+      "This tutorial follows the latest HTML5 standard.",
+      "If you want to use W3Schools services as an educational institution. Team or enterprise send us an e-mailsalesw3schools.com.",
+      "If you want to report an error. Or if you want to make a suggestion send us an e-mailhelpw3schools.com."
+    ],
+    "h1": [
+      "HTMLIntroduction"
+    ],
+    "h2": [
+      "HTMLTutorial",
+      "HTMLForms",
+      "HTMLGraphics",
+      "HTMLMedia",
+      "HTMLAPIs",
+      "HTMLCert",
+      "HTMLExamples",
+      "HTMLReferences",
+      "What is HTML?",
+      "A Simple HTML Document",
+      "What is an HTML Element?",
+      "Web Browsers",
+      "HTML Page Structure",
+      "HTML History",
+      "Video HTML Introduction",
+      "Contact Sales",
+      "Report Error"
+    ],
+    "h3": [
+      "Example",
+      "Example Explained"
+    ],
+    "lists": [
+      [
+        "HTML stands for Hyper Text Markup Language",
+        "HTML is the standard markup language for creating Web pages",
+        "HTML describes the structure of a Web page",
+        "HTML consists of a series of elements",
+        "HTML elements tell the browser how to display the content",
+        "HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+      ],
+      [
+        "Thedeclaration defines that this document is an HTML5 document",
+        "Theelement is the root element of an HTML page",
+        "Theelement contains meta information about the HTML page",
+        "Theelement specifies a title for the HTML page (which is shown in the browsers title bar or in the pages tab)",
+        "Theelement defines the documents body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.",
+        "Theelement defines a large heading",
+        "Theelement defines a paragraph"
+      ]
+    ],
+    "links": [
+      {
+        "text": "★+1",
+        "url": "https://profile.w3schools.com/log-in"
+      },
+      {
+        "text": "Get Certified",
+        "url": "https://campus.w3schools.com/collections/course-catalog"
+      },
+      {
+        "text": "Upgrade",
+        "url": "https://order.w3schools.com/plans"
+      },
+      {
+        "text": "Teachers",
+        "url": "https://www.w3schools.com/academy/index.php"
+      },
+      {
+        "text": "Spaces",
+        "url": "https://www.w3schools.com/spaces/index.php"
+      },
+      {
+        "text": "Bootcamps",
+        "url": "https://www.w3schools.com/bootcamp/index.php"
+      },
+      {
+        "text": "Get Certified",
+        "url": "https://campus.w3schools.com/collections/course-catalog"
+      },
+      {
+        "text": "Upgrade",
+        "url": "https://order.w3schools.com/plans"
+      },
+      {
+        "text": "Teachers",
+        "url": "https://www.w3schools.com/academy/index.php"
+      },
+      {
+        "text": "Spaces",
+        "url": "https://spaces.w3schools.com"
+      },
+      {
+        "text": "Bootcamps",
+        "url": "https://www.w3schools.com/bootcamp/index.php"
+      },
+      {
+        "text": "HTML",
+        "url": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "text": "CSS",
+        "url": "https://www.w3schools.com/css/default.asp"
+      },
+      {
+        "text": "JAVASCRIPT",
+        "url": "https://www.w3schools.com/js/default.asp"
+      },
+      {
+        "text": "SQL",
+        "url": "https://www.w3schools.com/sql/default.asp"
+      },
+      {
+        "text": "PYTHON",
+        "url": "https://www.w3schools.com/python/default.asp"
+      },
+      {
+        "text": "JAVA",
+        "url": "https://www.w3schools.com/java/default.asp"
+      },
+      {
+        "text": "PHP",
+        "url": "https://www.w3schools.com/php/default.asp"
+      },
+      {
+        "text": "HOW TO",
+        "url": "https://www.w3schools.com/howto/default.asp"
+      },
+      {
+        "text": "W3.CSS",
+        "url": "https://www.w3schools.com/w3css/default.asp"
+      },
+      {
+        "text": "C",
+        "url": "https://www.w3schools.com/c/index.php"
+      },
+      {
+        "text": "C++",
+        "url": "https://www.w3schools.com/cpp/default.asp"
+      },
+      {
+        "text": "C#",
+        "url": "https://www.w3schools.com/cs/index.php"
+      },
+      {
+        "text": "BOOTSTRAP",
+        "url": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+      },
+      {
+        "text": "REACT",
+        "url": "https://www.w3schools.com/react/default.asp"
+      },
+      {
+        "text": "MYSQL",
+        "url": "https://www.w3schools.com/mysql/default.asp"
+      },
+      {
+        "text": "JQUERY",
+        "url": "https://www.w3schools.com/jquery/default.asp"
+      },
+      {
+        "text": "EXCEL",
+        "url": "https://www.w3schools.com/excel/index.php"
+      },
+      {
+        "text": "XML",
+        "url": "https://www.w3schools.com/xml/default.asp"
+      },
+      {
+        "text": "DJANGO",
+        "url": "https://www.w3schools.com/django/index.php"
+      },
+      {
+        "text": "NUMPY",
+        "url": "https://www.w3schools.com/python/numpy/default.asp"
+      },
+      {
+        "text": "PANDAS",
+        "url": "https://www.w3schools.com/python/pandas/default.asp"
+      },
+      {
+        "text": "NODEJS",
+        "url": "https://www.w3schools.com/nodejs/default.asp"
+      },
+      {
+        "text": "DSA",
+        "url": "https://www.w3schools.com/dsa/index.php"
+      },
+      {
+        "text": "TYPESCRIPT",
+        "url": "https://www.w3schools.com/typescript/index.php"
+      },
+      {
+        "text": "ANGULAR",
+        "url": "https://www.w3schools.com/angular/default.asp"
+      },
+      {
+        "text": "ANGULARJS",
+        "url": "https://www.w3schools.com/angularjs/default.asp"
+      },
+      {
+        "text": "GIT",
+        "url": "https://www.w3schools.com/git/default.asp"
+      },
+      {
+        "text": "POSTGRESQL",
+        "url": "https://www.w3schools.com/postgresql/index.php"
+      },
+      {
+        "text": "MONGODB",
+        "url": "https://www.w3schools.com/mongodb/index.php"
+      },
+      {
+        "text": "ASP",
+        "url": "https://www.w3schools.com/asp/default.asp"
+      },
+      {
+        "text": "AI",
+        "url": "https://www.w3schools.com/ai/default.asp"
+      },
+      {
+        "text": "R",
+        "url": "https://www.w3schools.com/r/default.asp"
+      },
+      {
+        "text": "GO",
+        "url": "https://www.w3schools.com/go/index.php"
+      },
+      {
+        "text": "KOTLIN",
+        "url": "https://www.w3schools.com/kotlin/index.php"
+      },
+      {
+        "text": "SWIFT",
+        "url": "https://www.w3schools.com/swift/default.asp"
+      },
+      {
+        "text": "SASS",
+        "url": "https://www.w3schools.com/sass/default.asp"
+      },
+      {
+        "text": "VUE",
+        "url": "https://www.w3schools.com/vue/index.php"
+      },
+      {
+        "text": "GEN AI",
+        "url": "https://www.w3schools.com/gen_ai/index.php"
+      },
+      {
+        "text": "SCIPY",
+        "url": "https://www.w3schools.com/python/scipy/index.php"
+      },
+      {
+        "text": "AWS",
+        "url": "https://www.w3schools.com/aws/index.php"
+      },
+      {
+        "text": "CYBERSECURITY",
+        "url": "https://www.w3schools.com/cybersecurity/index.php"
+      },
+      {
+        "text": "DATA SCIENCE",
+        "url": "https://www.w3schools.com/datascience/default.asp"
+      },
+      {
+        "text": "INTRO TO PROGRAMMING",
+        "url": "https://www.w3schools.com/programming/index.php"
+      },
+      {
+        "text": "INTRO TO HTML & CSS",
+        "url": "https://www.w3schools.com/htmlcss/default.asp"
+      },
+      {
+        "text": "BASH",
+        "url": "https://www.w3schools.com/bash/index.php"
+      },
+      {
+        "text": "RUST",
+        "url": "https://www.w3schools.com/rust/index.php"
+      },
+      {
+        "text": "TOOLS",
+        "url": "https://www.w3schools.com/tools/index.php"
+      },
+      {
+        "text": "HTML HOME",
+        "url": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "text": "HTML Introduction",
+        "url": "https://www.w3schools.com/html/html_intro.asp"
+      },
+      {
+        "text": "HTML Editors",
+        "url": "https://www.w3schools.com/html/html_editors.asp"
+      },
+      {
+        "text": "HTML Basic",
+        "url": "https://www.w3schools.com/html/html_basic.asp"
+      },
+      {
+        "text": "Basic",
+        "url": "https://www.w3schools.com/html/html_basic.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_basic.asp"
+      },
+      {
+        "text": "HTML Elements",
+        "url": "https://www.w3schools.com/html/html_elements.asp"
+      },
+      {
+        "text": "Elements",
+        "url": "https://www.w3schools.com/html/html_elements.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_elements.asp"
+      },
+      {
+        "text": "HTML Attributes",
+        "url": "https://www.w3schools.com/html/html_attributes.asp"
+      },
+      {
+        "text": "Attributes",
+        "url": "https://www.w3schools.com/html/html_attributes.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_attributes.asp"
+      },
+      {
+        "text": "HTML Headings",
+        "url": "https://www.w3schools.com/html/html_headings.asp"
+      },
+      {
+        "text": "Headings",
+        "url": "https://www.w3schools.com/html/html_headings.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_headings.asp"
+      },
+      {
+        "text": "HTML Paragraphs",
+        "url": "https://www.w3schools.com/html/html_paragraphs.asp"
+      },
+      {
+        "text": "Paragraphs",
+        "url": "https://www.w3schools.com/html/html_paragraphs.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_paragraphs.asp"
+      },
+      {
+        "text": "HTML Styles",
+        "url": "https://www.w3schools.com/html/html_styles.asp"
+      },
+      {
+        "text": "Styles",
+        "url": "https://www.w3schools.com/html/html_styles.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_styles.asp"
+      },
+      {
+        "text": "HTML Formatting",
+        "url": "https://www.w3schools.com/html/html_formatting.asp"
+      },
+      {
+        "text": "Formatting",
+        "url": "https://www.w3schools.com/html/html_formatting.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_formatting.asp"
+      },
+      {
+        "text": "HTML Quotations",
+        "url": "https://www.w3schools.com/html/html_quotation_elements.asp"
+      },
+      {
+        "text": "Quotations",
+        "url": "https://www.w3schools.com/html/html_quotation_elements.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_quotations.asp"
+      },
+      {
+        "text": "HTML Comments",
+        "url": "https://www.w3schools.com/html/html_comments.asp"
+      },
+      {
+        "text": "Comments",
+        "url": "https://www.w3schools.com/html/html_comments.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_comments.asp"
+      },
+      {
+        "text": "HTML Colors",
+        "url": "https://www.w3schools.com/html/html_colors.asp"
+      },
+      {
+        "text": "Colors",
+        "url": "https://www.w3schools.com/html/html_colors.asp"
+      },
+      {
+        "text": "RGB",
+        "url": "https://www.w3schools.com/html/html_colors_rgb.asp"
+      },
+      {
+        "text": "HEX",
+        "url": "https://www.w3schools.com/html/html_colors_hex.asp"
+      },
+      {
+        "text": "HSL",
+        "url": "https://www.w3schools.com/html/html_colors_hsl.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_colors.asp"
+      },
+      {
+        "text": "HTML CSS",
+        "url": "https://www.w3schools.com/html/html_css.asp"
+      },
+      {
+        "text": "CSS",
+        "url": "https://www.w3schools.com/html/html_css.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_css.asp"
+      },
+      {
+        "text": "HTML Links",
+        "url": "https://www.w3schools.com/html/html_links.asp"
+      },
+      {
+        "text": "Links",
+        "url": "https://www.w3schools.com/html/html_links.asp"
+      },
+      {
+        "text": "Link Colors",
+        "url": "https://www.w3schools.com/html/html_links_colors.asp"
+      },
+      {
+        "text": "Link Bookmarks",
+        "url": "https://www.w3schools.com/html/html_links_bookmarks.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_links.asp"
+      },
+      {
+        "text": "HTML Images",
+        "url": "https://www.w3schools.com/html/html_images.asp"
+      },
+      {
+        "text": "Images",
+        "url": "https://www.w3schools.com/html/html_images.asp"
+      },
+      {
+        "text": "Image Map",
+        "url": "https://www.w3schools.com/html/html_images_imagemap.asp"
+      },
+      {
+        "text": "Background Images",
+        "url": "https://www.w3schools.com/html/html_images_background.asp"
+      },
+      {
+        "text": "The Picture Element",
+        "url": "https://www.w3schools.com/html/html_images_picture.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_images.asp"
+      },
+      {
+        "text": "HTML Favicon",
+        "url": "https://www.w3schools.com/html/html_favicon.asp"
+      },
+      {
+        "text": "HTML Page Title",
+        "url": "https://www.w3schools.com/html/html_page_title.asp"
+      },
+      {
+        "text": "HTML Tables",
+        "url": "https://www.w3schools.com/html/html_tables.asp"
+      },
+      {
+        "text": "HTML Tables",
+        "url": "https://www.w3schools.com/html/html_tables.asp"
+      },
+      {
+        "text": "Table Borders",
+        "url": "https://www.w3schools.com/html/html_table_borders.asp"
+      },
+      {
+        "text": "Table Sizes",
+        "url": "https://www.w3schools.com/html/html_table_sizes.asp"
+      },
+      {
+        "text": "Table Headers",
+        "url": "https://www.w3schools.com/html/html_table_headers.asp"
+      },
+      {
+        "text": "Padding & Spacing",
+        "url": "https://www.w3schools.com/html/html_table_padding_spacing.asp"
+      },
+      {
+        "text": "Colspan & Rowspan",
+        "url": "https://www.w3schools.com/html/html_table_colspan_rowspan.asp"
+      },
+      {
+        "text": "Table Styling",
+        "url": "https://www.w3schools.com/html/html_table_styling.asp"
+      },
+      {
+        "text": "Table Colgroup",
+        "url": "https://www.w3schools.com/html/html_table_colgroup.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_tables.asp"
+      },
+      {
+        "text": "HTML Lists",
+        "url": "https://www.w3schools.com/html/html_lists.asp"
+      },
+      {
+        "text": "Lists",
+        "url": "https://www.w3schools.com/html/html_lists.asp"
+      },
+      {
+        "text": "Unordered Lists",
+        "url": "https://www.w3schools.com/html/html_lists_unordered.asp"
+      },
+      {
+        "text": "Ordered Lists",
+        "url": "https://www.w3schools.com/html/html_lists_ordered.asp"
+      },
+      {
+        "text": "Other Lists",
+        "url": "https://www.w3schools.com/html/html_lists_other.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_lists.asp"
+      },
+      {
+        "text": "HTML Block & Inline",
+        "url": "https://www.w3schools.com/html/html_blocks.asp"
+      },
+      {
+        "text": "Block & Inline",
+        "url": "https://www.w3schools.com/html/html_blocks.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_blocks.asp"
+      },
+      {
+        "text": "HTML Div",
+        "url": "https://www.w3schools.com/html/html_div.asp"
+      },
+      {
+        "text": "Div",
+        "url": "https://www.w3schools.com/html/html_div.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_div.asp"
+      },
+      {
+        "text": "HTML Classes",
+        "url": "https://www.w3schools.com/html/html_classes.asp"
+      },
+      {
+        "text": "Classes",
+        "url": "https://www.w3schools.com/html/html_classes.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_classes.asp"
+      },
+      {
+        "text": "HTML Id",
+        "url": "https://www.w3schools.com/html/html_id.asp"
+      },
+      {
+        "text": "Id",
+        "url": "https://www.w3schools.com/html/html_id.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_id.asp"
+      },
+      {
+        "text": "HTML Buttons",
+        "url": "https://www.w3schools.com/html/html_buttons.asp"
+      },
+      {
+        "text": "Buttons",
+        "url": "https://www.w3schools.com/html/html_buttons.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_buttons.asp"
+      },
+      {
+        "text": "HTML Iframes",
+        "url": "https://www.w3schools.com/html/html_iframe.asp"
+      },
+      {
+        "text": "Iframes",
+        "url": "https://www.w3schools.com/html/html_iframe.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_iframes.asp"
+      },
+      {
+        "text": "HTML JavaScript",
+        "url": "https://www.w3schools.com/html/html_scripts.asp"
+      },
+      {
+        "text": "JavaScript",
+        "url": "https://www.w3schools.com/html/html_scripts.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_scripts.asp"
+      },
+      {
+        "text": "HTML File Paths",
+        "url": "https://www.w3schools.com/html/html_filepaths.asp"
+      },
+      {
+        "text": "File Paths",
+        "url": "https://www.w3schools.com/html/html_filepaths.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_filepaths.asp"
+      },
+      {
+        "text": "HTML Head",
+        "url": "https://www.w3schools.com/html/html_head.asp"
+      },
+      {
+        "text": "Head",
+        "url": "https://www.w3schools.com/html/html_head.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_head.asp"
+      },
+      {
+        "text": "HTML Layout",
+        "url": "https://www.w3schools.com/html/html_layout.asp"
+      },
+      {
+        "text": "Layout",
+        "url": "https://www.w3schools.com/html/html_layout.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_layout.asp"
+      },
+      {
+        "text": "HTML Responsive",
+        "url": "https://www.w3schools.com/html/html_responsive.asp"
+      },
+      {
+        "text": "Responsive",
+        "url": "https://www.w3schools.com/html/html_responsive.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_responsive.asp"
+      },
+      {
+        "text": "HTML Computercode",
+        "url": "https://www.w3schools.com/html/html_computercode_elements.asp"
+      },
+      {
+        "text": "Computercode",
+        "url": "https://www.w3schools.com/html/html_computercode_elements.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_computercode.asp"
+      },
+      {
+        "text": "HTML Semantics",
+        "url": "https://www.w3schools.com/html/html5_semantic_elements.asp"
+      },
+      {
+        "text": "Semantics",
+        "url": "https://www.w3schools.com/html/html5_semantic_elements.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_semantics.asp"
+      },
+      {
+        "text": "HTML Style Guide",
+        "url": "https://www.w3schools.com/html/html5_syntax.asp"
+      },
+      {
+        "text": "HTML Entities",
+        "url": "https://www.w3schools.com/html/html_entities.asp"
+      },
+      {
+        "text": "Entities",
+        "url": "https://www.w3schools.com/html/html_entities.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_entities.asp"
+      },
+      {
+        "text": "HTML Symbols",
+        "url": "https://www.w3schools.com/html/html_symbols.asp"
+      },
+      {
+        "text": "HTML Emojis",
+        "url": "https://www.w3schools.com/html/html_emojis.asp"
+      },
+      {
+        "text": "HTML Charsets",
+        "url": "https://www.w3schools.com/html/html_charset.asp"
+      },
+      {
+        "text": "HTML URL Encode",
+        "url": "https://www.w3schools.com/html/html_urlencode.asp"
+      },
+      {
+        "text": "HTML vs. XHTML",
+        "url": "https://www.w3schools.com/html/html_xhtml.asp"
+      },
+      {
+        "text": "HTML Forms",
+        "url": "https://www.w3schools.com/html/html_forms.asp"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.w3schools.com/html/html_forms.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_forms.asp"
+      },
+      {
+        "text": "HTML Form Attributes",
+        "url": "https://www.w3schools.com/html/html_forms_attributes.asp"
+      },
+      {
+        "text": "HTML Form Elements",
+        "url": "https://www.w3schools.com/html/html_form_elements.asp"
+      },
+      {
+        "text": "Form Elements",
+        "url": "https://www.w3schools.com/html/html_form_elements.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_form_elements.asp"
+      },
+      {
+        "text": "HTML Input Types",
+        "url": "https://www.w3schools.com/html/html_form_input_types.asp"
+      },
+      {
+        "text": "Input Types",
+        "url": "https://www.w3schools.com/html/html_form_input_types.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_input_types.asp"
+      },
+      {
+        "text": "HTML Input Attributes",
+        "url": "https://www.w3schools.com/html/html_form_attributes.asp"
+      },
+      {
+        "text": "Input Form Attributes",
+        "url": "https://www.w3schools.com/html/html_form_attributes_form.asp"
+      },
+      {
+        "text": "HTML Canvas",
+        "url": "https://www.w3schools.com/html/html5_canvas.asp"
+      },
+      {
+        "text": "Canvas",
+        "url": "https://www.w3schools.com/html/html5_canvas.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_canvas.asp"
+      },
+      {
+        "text": "HTML SVG",
+        "url": "https://www.w3schools.com/html/html5_svg.asp"
+      },
+      {
+        "text": "SVG",
+        "url": "https://www.w3schools.com/html/html5_svg.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_svg.asp"
+      },
+      {
+        "text": "HTML Media",
+        "url": "https://www.w3schools.com/html/html_media.asp"
+      },
+      {
+        "text": "HTML Video",
+        "url": "https://www.w3schools.com/html/html5_video.asp"
+      },
+      {
+        "text": "Video",
+        "url": "https://www.w3schools.com/html/html5_video.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_video.asp"
+      },
+      {
+        "text": "HTML Audio",
+        "url": "https://www.w3schools.com/html/html5_audio.asp"
+      },
+      {
+        "text": "Audio",
+        "url": "https://www.w3schools.com/html/html5_audio.asp"
+      },
+      {
+        "text": "Code Challenge",
+        "url": "https://www.w3schools.com/html/html_challenges_audio.asp"
+      },
+      {
+        "text": "HTML Plug-ins",
+        "url": "https://www.w3schools.com/html/html_object.asp"
+      },
+      {
+        "text": "HTML YouTube",
+        "url": "https://www.w3schools.com/html/html_youtube.asp"
+      },
+      {
+        "text": "HTML Web APIs",
+        "url": "https://www.w3schools.com/html/html5_api_whatis.asp"
+      },
+      {
+        "text": "HTML Geolocation",
+        "url": "https://www.w3schools.com/html/html5_geolocation.asp"
+      },
+      {
+        "text": "HTML Drag and Drop",
+        "url": "https://www.w3schools.com/html/html5_draganddrop.asp"
+      },
+      {
+        "text": "HTML Web Storage",
+        "url": "https://www.w3schools.com/html/html5_webstorage.asp"
+      },
+      {
+        "text": "HTML Web Workers",
+        "url": "https://www.w3schools.com/html/html5_webworkers.asp"
+      },
+      {
+        "text": "HTML SSE",
+        "url": "https://www.w3schools.com/html/html5_serversentevents.asp"
+      },
+      {
+        "text": "HTML Certificate",
+        "url": "https://www.w3schools.com/html/html_exam.asp"
+      },
+      {
+        "text": "HTML Examples",
+        "url": "https://www.w3schools.com/html/html_examples.asp"
+      },
+      {
+        "text": "HTML Editor",
+        "url": "https://www.w3schools.com/html/html_editor.asp"
+      },
+      {
+        "text": "HTML Quiz",
+        "url": "https://www.w3schools.com/html/html_quiz.asp"
+      },
+      {
+        "text": "HTML Exercises",
+        "url": "https://www.w3schools.com/html/html_exercises.asp"
+      },
+      {
+        "text": "HTML Challenges",
+        "url": "https://www.w3schools.com/html/html_challenges.asp"
+      },
+      {
+        "text": "HTML Website",
+        "url": "https://www.w3schools.com/html/html_website.asp"
+      },
+      {
+        "text": "HTML Syllabus",
+        "url": "https://www.w3schools.com/html/html_syllabus.asp"
+      },
+      {
+        "text": "HTML Study Plan",
+        "url": "https://www.w3schools.com/html/html_study_plan.asp"
+      },
+      {
+        "text": "HTML Interview Prep",
+        "url": "https://www.w3schools.com/html/html_interview_prep.asp"
+      },
+      {
+        "text": "HTML Bootcamp",
+        "url": "https://www.w3schools.com/html/html_bootcamp.asp"
+      },
+      {
+        "text": "HTML Summary",
+        "url": "https://www.w3schools.com/html/html_summary.asp"
+      },
+      {
+        "text": "HTML Accessibility",
+        "url": "https://www.w3schools.com/html/html_accessibility.asp"
+      },
+      {
+        "text": "HTML Tag List",
+        "url": "https://www.w3schools.com/tags/default.asp"
+      },
+      {
+        "text": "HTML Attributes",
+        "url": "https://www.w3schools.com/tags/ref_attributes.asp"
+      },
+      {
+        "text": "HTML Global Attributes",
+        "url": "https://www.w3schools.com/tags/ref_standardattributes.asp"
+      },
+      {
+        "text": "HTML Browser Support",
+        "url": "https://www.w3schools.com/tags/ref_html_browsersupport.asp"
+      },
+      {
+        "text": "HTML Events",
+        "url": "https://www.w3schools.com/tags/ref_eventattributes.asp"
+      },
+      {
+        "text": "HTML Colors",
+        "url": "https://www.w3schools.com/tags/ref_colornames.asp"
+      },
+      {
+        "text": "HTML Canvas",
+        "url": "https://www.w3schools.com/tags/ref_canvas.asp"
+      },
+      {
+        "text": "HTML Audio/Video",
+        "url": "https://www.w3schools.com/tags/ref_av_dom.asp"
+      },
+      {
+        "text": "HTML Doctypes",
+        "url": "https://www.w3schools.com/tags/ref_html_dtd.asp"
+      },
+      {
+        "text": "HTML Character Sets",
+        "url": "https://www.w3schools.com/tags/ref_charactersets.asp"
+      },
+      {
+        "text": "HTML URL Encode",
+        "url": "https://www.w3schools.com/tags/ref_urlencode.asp"
+      },
+      {
+        "text": "HTML Lang Codes",
+        "url": "https://www.w3schools.com/tags/ref_language_codes.asp"
+      },
+      {
+        "text": "HTTP Messages",
+        "url": "https://www.w3schools.com/tags/ref_httpmessages.asp"
+      },
+      {
+        "text": "HTTP Methods",
+        "url": "https://www.w3schools.com/tags/ref_httpmethods.asp"
+      },
+      {
+        "text": "PX to EM Converter",
+        "url": "https://www.w3schools.com/tags/ref_pxtoemconversion.asp"
+      },
+      {
+        "text": "Keyboard Shortcuts",
+        "url": "https://www.w3schools.com/tags/ref_keyboardshortcuts.asp"
+      },
+      {
+        "text": "❮ Previous",
+        "url": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "text": "Next ❯",
+        "url": "https://www.w3schools.com/html/html_editors.asp"
+      },
+      {
+        "text": "Try it Yourself »",
+        "url": "https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro"
+      },
+      {
+        "text": "WHATWG HTML5 Living Standard",
+        "url": "http://whatwg.org/html/"
+      },
+      {
+        "text": "W3C Recommendation: HTML5",
+        "url": "http://www.w3.org/TR/html5/"
+      },
+      {
+        "text": "W3C Recommendation: HTML5.1 2nd Edition",
+        "url": "http://www.w3.org/TR/html51/"
+      },
+      {
+        "text": "W3C Recommendation: HTML5.2",
+        "url": "http://www.w3.org/TR/html52/"
+      },
+      {
+        "text": "❮ Previous",
+        "url": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "text": "Next ❯",
+        "url": "https://www.w3schools.com/html/html_editors.asp"
+      },
+      {
+        "text": "★+1",
+        "url": "https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com"
+      },
+      {
+        "text": "Sign in to track progress",
+        "url": "https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com"
+      },
+      {
+        "text": "COLOR PICKER",
+        "url": "https://www.w3schools.com/colors/colors_picker.asp"
+      },
+      {
+        "text": "REMOVE ADS",
+        "url": "https://order.w3schools.com/plans"
+      },
+      {
+        "text": "PLUS",
+        "url": "https://order.w3schools.com/plans"
+      },
+      {
+        "text": "SPACES",
+        "url": "https://www.w3schools.com/spaces/index.php"
+      },
+      {
+        "text": "GET CERTIFIED",
+        "url": "https://campus.w3schools.com/collections/certifications"
+      },
+      {
+        "text": "FOR TEACHERS",
+        "url": "https://www.w3schools.com/academy/index.php"
+      },
+      {
+        "text": "BOOTCAMPS",
+        "url": "https://www.w3schools.com/bootcamp/index.php"
+      },
+      {
+        "text": "HTML Tutorial",
+        "url": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "text": "CSS Tutorial",
+        "url": "https://www.w3schools.com/css/default.asp"
+      },
+      {
+        "text": "JavaScript Tutorial",
+        "url": "https://www.w3schools.com/js/default.asp"
+      },
+      {
+        "text": "How To Tutorial",
+        "url": "https://www.w3schools.com/howto/default.asp"
+      },
+      {
+        "text": "SQL Tutorial",
+        "url": "https://www.w3schools.com/sql/default.asp"
+      },
+      {
+        "text": "Python Tutorial",
+        "url": "https://www.w3schools.com/python/default.asp"
+      },
+      {
+        "text": "W3.CSS Tutorial",
+        "url": "https://www.w3schools.com/w3css/default.asp"
+      },
+      {
+        "text": "Bootstrap Tutorial",
+        "url": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+      },
+      {
+        "text": "PHP Tutorial",
+        "url": "https://www.w3schools.com/php/default.asp"
+      },
+      {
+        "text": "Java Tutorial",
+        "url": "https://www.w3schools.com/java/default.asp"
+      },
+      {
+        "text": "C++ Tutorial",
+        "url": "https://www.w3schools.com/cpp/default.asp"
+      },
+      {
+        "text": "jQuery Tutorial",
+        "url": "https://www.w3schools.com/jquery/default.asp"
+      },
+      {
+        "text": "HTML Reference",
+        "url": "https://www.w3schools.com/tags/default.asp"
+      },
+      {
+        "text": "CSS Reference",
+        "url": "https://www.w3schools.com/cssref/index.php"
+      },
+      {
+        "text": "JavaScript Reference",
+        "url": "https://www.w3schools.com/jsref/default.asp"
+      },
+      {
+        "text": "SQL Reference",
+        "url": "https://www.w3schools.com/sql/sql_ref_keywords.asp"
+      },
+      {
+        "text": "Python Reference",
+        "url": "https://www.w3schools.com/python/python_reference.asp"
+      },
+      {
+        "text": "W3.CSS Reference",
+        "url": "https://www.w3schools.com/w3css/w3css_references.asp"
+      },
+      {
+        "text": "Bootstrap Reference",
+        "url": "https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp"
+      },
+      {
+        "text": "PHP Reference",
+        "url": "https://www.w3schools.com/php/php_ref_overview.asp"
+      },
+      {
+        "text": "HTML Colors",
+        "url": "https://www.w3schools.com/colors/colors_names.asp"
+      },
+      {
+        "text": "Java Reference",
+        "url": "https://www.w3schools.com/java/java_ref_keywords.asp"
+      },
+      {
+        "text": "AngularJS Reference",
+        "url": "https://www.w3schools.com/angularjs/angularjs_ref_directives.asp"
+      },
+      {
+        "text": "jQuery Reference",
+        "url": "https://www.w3schools.com/jquery/jquery_ref_overview.asp"
+      },
+      {
+        "text": "HTML Examples",
+        "url": "https://www.w3schools.com/html/html_examples.asp"
+      },
+      {
+        "text": "CSS Examples",
+        "url": "https://www.w3schools.com/css/css_examples.asp"
+      },
+      {
+        "text": "JavaScript Examples",
+        "url": "https://www.w3schools.com/js/js_examples.asp"
+      },
+      {
+        "text": "How To Examples",
+        "url": "https://www.w3schools.com/howto/default.asp"
+      },
+      {
+        "text": "SQL Examples",
+        "url": "https://www.w3schools.com/sql/sql_examples.asp"
+      },
+      {
+        "text": "Python Examples",
+        "url": "https://www.w3schools.com/python/python_examples.asp"
+      },
+      {
+        "text": "W3.CSS Examples",
+        "url": "https://www.w3schools.com/w3css/w3css_examples.asp"
+      },
+      {
+        "text": "Bootstrap Examples",
+        "url": "https://www.w3schools.com/bootstrap/bootstrap_examples.asp"
+      },
+      {
+        "text": "PHP Examples",
+        "url": "https://www.w3schools.com/php/php_examples.asp"
+      },
+      {
+        "text": "Java Examples",
+        "url": "https://www.w3schools.com/java/java_examples.asp"
+      },
+      {
+        "text": "XML Examples",
+        "url": "https://www.w3schools.com/xml/xml_examples.asp"
+      },
+      {
+        "text": "jQuery Examples",
+        "url": "https://www.w3schools.com/jquery/jquery_examples.asp"
+      },
+      {
+        "text": "Get Certified",
+        "url": "https://campus.w3schools.com/collections/course-catalog"
+      },
+      {
+        "text": "HTML Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/html-certificate"
+      },
+      {
+        "text": "CSS Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/css-certificate"
+      },
+      {
+        "text": "JavaScript Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/javascript-certificate"
+      },
+      {
+        "text": "Front End Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/front-end-certificate"
+      },
+      {
+        "text": "SQL Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/sql-certificate"
+      },
+      {
+        "text": "Python Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/python-certificate"
+      },
+      {
+        "text": "PHP Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/php-certificate"
+      },
+      {
+        "text": "jQuery Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/jquery-certificate"
+      },
+      {
+        "text": "Java Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/java-certificate"
+      },
+      {
+        "text": "C++ Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/c-certificate"
+      },
+      {
+        "text": "C# Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/c-certificate-1"
+      },
+      {
+        "text": "XML Certificate",
+        "url": "https://campus.w3schools.com/collections/certifications/products/xml-certificate"
+      },
+      {
+        "text": "",
+        "url": "https://www.linkedin.com/company/w3schools.com/"
+      },
+      {
+        "text": "",
+        "url": "https://discord.com/invite/w3schools"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/w3schoolscom/"
+      },
+      {
+        "text": "",
+        "url": "https://www.instagram.com/w3schools.com_official/"
+      },
+      {
+        "text": "FORUM",
+        "url": "https://www.w3schools.com/forum/index.php"
+      },
+      {
+        "text": "ABOUT",
+        "url": "https://www.w3schools.com/about/default.asp"
+      },
+      {
+        "text": "ACADEMY",
+        "url": "https://www.w3schools.com/academy/index.php"
+      },
+      {
+        "text": "terms of use",
+        "url": "https://www.w3schools.com/about/about_copyright.asp"
+      },
+      {
+        "text": "privacy policy",
+        "url": "https://www.w3schools.com/about/about_privacy.asp"
+      },
+      {
+        "text": "Copyright 1999-2026",
+        "url": "https://www.w3schools.com/about/about_copyright.asp"
+      },
+      {
+        "text": "W3Schools is Powered by W3.CSS",
+        "url": "https://www.w3schools.com/w3css/default.asp"
+      }
+    ]
+  },
+  "featured_snippets": [
+    {
+      "type": "definition",
+      "term": "HTML",
+      "answer": "the standard markup language for creating Web pages.",
+      "word_count": 8
+    },
+    {
+      "type": "paragraph",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "word_count": 10
+    },
+    {
+      "type": "steps",
+      "steps": [
+        "HTML is the standard markup language for creating Web pages."
+      ],
+      "step_count": 1
+    },
+    {
+      "type": "definition",
+      "term": "An HTML element",
+      "answer": "defined by a start tag, some content, and an end tag",
+      "word_count": 11
+    },
+    {
+      "type": "paragraph",
+      "answer": "An HTML element is defined by a start tag, some content, and an end tag",
+      "word_count": 15
+    },
+    {
+      "type": "steps",
+      "steps": [
+        "An HTML element is defined by a start tag, some content, and an end tag"
+      ],
+      "step_count": 1
+    },
+    {
+      "type": "paragraph",
+      "answer": "The HTMLelementis everything from the start tag to the end tag",
+      "word_count": 11
+    },
+    {
+      "type": "steps",
+      "steps": [
+        "The HTMLelementis everything from the start tag to the end tag"
+      ],
+      "step_count": 1
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is HTMLTutorial?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLForms?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLGraphics?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLMedia?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLAPIs?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLCert?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLExamples?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTMLReferences?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is What is HTML?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is A Simple HTML Document?",
+      "answer": "An HTML element is defined by a start tag, some content, and an end tag",
+      "type": "generated"
+    },
+    {
+      "question": "What is What is an HTML Element?",
+      "answer": "An HTML element is defined by a start tag, some content, and an end tag",
+      "type": "generated"
+    },
+    {
+      "question": "What is Web Browsers?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTML Page Structure?",
+      "answer": "Below is a visualization of an HTML page structure",
+      "type": "generated"
+    },
+    {
+      "question": "What is HTML History?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Video HTML Introduction?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Contact Sales?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Report Error?",
+      "answer": "If you want to report an error, or if you want to make a suggestion, send us an e-mailhelpw3schools.com",
+      "type": "generated"
+    },
+    {
+      "question": "What is Example?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    },
+    {
+      "question": "What is Example Explained?",
+      "answer": "HTML is the standard markup language for creating Web pages.",
+      "type": "generated"
+    }
+  ],
+  "paa": [
+    {
+      "question": "What is HTMLTutorial?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLForms?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLGraphics?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLMedia?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLAPIs?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLCert?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLExamples?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    },
+    {
+      "question": "What is HTMLReferences?",
+      "short_answer": "HTML is the standard markup language for creating Web pages.",
+      "expanded": false
+    }
+  ]
+}

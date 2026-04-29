@@ -1,0 +1,45 @@
+{
+  "url": "https://example.com",
+  "optimized_content": {
+    "title": "Example Domain",
+    "meta_description": "",
+    "paragraphs": [
+      "This domain is for use in documentation examples without needing permission. Avoid use in operations."
+    ],
+    "h1": [
+      "Example Domain"
+    ],
+    "h2": [],
+    "h3": [],
+    "lists": [],
+    "links": [
+      {
+        "text": "Learn more",
+        "url": "https://iana.org/domains/example"
+      }
+    ]
+  },
+  "featured_snippets": [
+    {
+      "type": "definition",
+      "term": "This domain",
+      "answer": "for use in documentation examples without needing permission.",
+      "word_count": 8
+    },
+    {
+      "type": "paragraph",
+      "answer": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+      "word_count": 15
+    },
+    {
+      "type": "steps",
+      "steps": [
+        "This domain is for use in documentation examples without needing permission.",
+        "Avoid use in operations."
+      ],
+      "step_count": 2
+    }
+  ],
+  "faq": [],
+  "paa": []
+}
